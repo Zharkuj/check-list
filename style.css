@@ -496,7 +496,7 @@ body{
     align-items: center;
     position: relative; 
     height: 100px;
-    width: 500px !important;
+    width: 500px;
     border-radius: 10px;
     background-color: aliceblue;
     border-bottom: 2.5px #e1e1e1 solid;
